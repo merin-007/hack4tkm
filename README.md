@@ -1,16 +1,16 @@
-# project_one
+# INSIGHT
 
-A new Flutter project.
+An android based application to tackle the issue of unscientific load shedding and for monitoring the flow in the circuit.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+In traditional power grids the flow of data and electricity is unidirectional.Even though it is overburdened, it somehow manages to keep everyone's circuit flowing. But the system is unreliable for the emerging needs of customers and must evolve to keep pace with modern technology and maintain sustainability. The INSIGHT app is an attempt to solve some of the general issues in this traditional power grid.
 
-A few resources to get you started if this is your first Flutter project:
+## Goals
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Resolving unwanted load shedding through dynamic pricing and working of local power stations and integration of solar energy\
+Anomaly detection in user consumption\
+Real time power consumption and billing\
+Efficient usage of grid resources(integration of renewable energy resources)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
